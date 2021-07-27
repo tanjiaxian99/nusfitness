@@ -25,11 +25,11 @@ The better NUS facilities manager for all your workout needs.
 
 ## Screenshots
 
-![NUSFitness website: Dashboard page](https://imgur.com/j7DLpDF.png)
+![NUSFitness website: Dashboard page](https://imgur.com/6ABVg75.png)
 
-![NUSFitness website: Bookings page](https://imgur.com/pCUqLUE.png)
+![NUSFitness website: Bookings page](https://imgur.com/yn9c2tV.png)
 
-![NUSFitness website: Timetable page](https://imgur.com/fxNnfcp.png)
+![NUSFitness website: Timetable page](https://imgur.com/jCDfM1Y.png)
 
 ![NUSFitness website: Profile page](https://imgur.com/BTB3dGh.png)
 
