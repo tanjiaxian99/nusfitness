@@ -25,21 +25,21 @@ The better NUS facilities manager for all your workout needs.
 
 ## Screenshots
 
-![NUSFitness website: Dashboard page](https://imgur.com/Mu1kbk1)
+![NUSFitness website: Dashboard page](https://i.imgur.com/Mu1kbk1.png)
 
-![NUSFitness website: Bookings page](https://imgur.com/pCUqLUE)
+![NUSFitness website: Bookings page](https://i.imgur.com/pCUqLUE.png)
 
-![NUSFitness website: Timetable page](https://imgur.com/fxNnfcp)
+![NUSFitness website: Timetable page](https://imgur.com/fxNnfcp.png)
 
-![NUSFitness website: Profile page](https://imgur.com/BTB3dGh)
+![NUSFitness website: Profile page](https://imgur.com/BTB3dGh.png)
 
-![@NUSFitness_Bot: View booked slots](https://imgur.com/nKrTmih)
+<img src="https://imgur.com/nKrTmih.png" width="49.5%">
 
-![@NUSFitness_Bot: Time selector for bookings](https://imgur.com/u2T90In)
+<img src="https://imgur.com/u2T90In.png" width="49.5%">
 
-![@NUSFitness_Bot: View current traffic](https://imgur.com/vMx5VKE)
+<img src="https://imgur.com/vMx5VKE.png" width="50%">
 
-![@NUSFitness_Bot: View dashboard](https://imgur.com/8W6BKgw)
+<img src="https://imgur.com/8W6BKgw.png" width="50%">
 
 ## Features
 
