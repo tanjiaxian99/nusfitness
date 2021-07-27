@@ -33,13 +33,13 @@ The better NUS facilities manager for all your workout needs.
 
 ![NUSFitness website: Profile page](https://imgur.com/BTB3dGh.png)
 
-<img src="https://imgur.com/nKrTmih.png" width="49.5%">
+<img src="https://imgur.com/nKrTmih.png" width="49%">
 
-<img src="https://imgur.com/u2T90In.png" width="49.5%">
+<img src="https://imgur.com/u2T90In.png" width="49%">
 
-<img src="https://imgur.com/vMx5VKE.png" width="50%">
+<img src="https://imgur.com/vMx5VKE.png" width="25%">
 
-<img src="https://imgur.com/8W6BKgw.png" width="50%">
+<img src="https://imgur.com/8W6BKgw.png" width="25%">
 
 ## Features
 
