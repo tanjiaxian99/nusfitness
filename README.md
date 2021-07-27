@@ -31,7 +31,7 @@ The better NUS facilities manager for all your workout needs.
 
 ![NUSFitness website: Timetable page](https://imgur.com/jCDfM1Y.png)
 
-![NUSFitness website: Profile page](https://imgur.com/BTB3dGh.png)
+![NUSFitness website: Profile page](https://imgur.com/DdmaqkK.png)
 
 <p float="left">
     <img src="https://imgur.com/nKrTmih.png" width="24.6%">
