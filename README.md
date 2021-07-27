@@ -1,11 +1,13 @@
 # nusfitness
 
-> A NUS Facilities Manager written using MERN Stack and Telegram Bot API.  
-> You may find v0.2.0 deployed [here](https://jereldlimjy.github.io/nusfitness/#/)
+A NUS Facilities Manager written using MERN Stack and Telegram Bot API.
+
+> v0.3.0 has now been deployed. You may visit the NUSFitness website [here](https://jereldlimjy.github.io/nusfitness/) and our Telegram Bot @NUSFitness_Bot [here](https://t.me/NUSFitness_Bot).
 
 - [Frontend codebase](https://github.com/jereldlimjy/nusfitness)
 - [Backend codebase](https://github.com/jereldlimjy/nusfitness-api)
 - [Telegram Bot codebase](https://github.com/tanjiaxian99/nusfitness-telebot)
+- [API Documentation](https://tanjiaxian99.github.io/nusfitness-docs/)
 
 ## Table of contents
 
@@ -23,7 +25,21 @@ The better NUS facilities manager for all your workout needs.
 
 ## Screenshots
 
-Coming soon!
+![NUSFitness website: Dashboard page](https://imgur.com/Mu1kbk1)
+
+![NUSFitness website: Bookings page](https://imgur.com/pCUqLUE)
+
+![NUSFitness website: Timetable page](https://imgur.com/fxNnfcp)
+
+![NUSFitness website: Profile page](https://imgur.com/BTB3dGh)
+
+![@NUSFitness_Bot: View booked slots](https://imgur.com/nKrTmih)
+
+![@NUSFitness_Bot: Time selector for bookings](https://imgur.com/u2T90In)
+
+![@NUSFitness_Bot: View current traffic](https://imgur.com/vMx5VKE)
+
+![@NUSFitness_Bot: View dashboard](https://imgur.com/8W6BKgw)
 
 ## Features
 
@@ -96,7 +112,7 @@ Once done, start the app with
 
 ## Status
 
-Project is: _in progress_. v0.3.0 will be deployed by 26 Aug 2021.
+Project is stable at v0.3.0.
 
 ## Contact
 
