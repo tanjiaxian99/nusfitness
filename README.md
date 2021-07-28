@@ -1,13 +1,16 @@
+![NUSFitness Poster](https://imgur.com/0wJiUu4.png)
+
 # nusfitness
 
 A NUS Facilities Manager written using MERN Stack and Telegram Bot API.
 
-> v0.3.0 has now been deployed. You may visit the NUSFitness website [here](https://jereldlimjy.github.io/nusfitness/) and our Telegram Bot @NUSFitness_Bot [here](https://t.me/NUSFitness_Bot).
+> Updates as of 26 Aug 2021: v0.3.0 has now been deployed. You may visit the [NUSFitness website](https://jereldlimjy.github.io/nusfitness/), the Telegram Bot [@NUSFitness_Bot](https://t.me/NUSFitness_Bot) and the [API documentation](https://tanjiaxian99.github.io/nusfitness-docs/).
+>
+> The complete README can be found [here](https://docs.google.com/document/d/1YwaK9yqkq6vONYmIy51EkyMjbU7j9YXwgOQmKrSy9o8/edit?usp=sharing).
 
 - [Frontend codebase](https://github.com/jereldlimjy/nusfitness)
 - [Backend codebase](https://github.com/jereldlimjy/nusfitness-api)
 - [Telegram Bot codebase](https://github.com/tanjiaxian99/nusfitness-telebot)
-- [API Documentation](https://tanjiaxian99.github.io/nusfitness-docs/)
 
 ## Table of contents
 
